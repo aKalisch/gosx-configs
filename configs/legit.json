@@ -1,0 +1,465 @@
+{
+    "Aimbot": {
+        "aim_key": 107,
+        "always_rcs": false,
+        "auto_cock_revolver": false,
+        "bone_mode": 0,
+        "delayed_shot": true,
+        "enabled": true,
+        "enemy_onground_check": true,
+        "field_of_view": 1.5,
+        "fixed_bone": 1,
+        "flash_check": false,
+        "fov_enabled": true,
+        "full_legit": false,
+        "player_onground_check": true,
+        "recoil_control": true,
+        "recoil_level_x": 1.8,
+        "recoil_level_y": 1.375,
+        "silent_aim": false,
+        "smokecheck": false,
+        "smooth_constant_speed": false,
+        "smooth_salt_multiplier": 0.06144,
+        "smooth_salting": true,
+        "smoothaim": true,
+        "smoothing_factor": 0.785,
+        "toggle_key": 61
+    },
+    "AntiCheat": {
+        "faceit_safe": false,
+        "mouse_event_aim": false,
+        "targeting": 0
+    },
+    "AutoStrafe": {
+        "enabled": false,
+        "silent": false,
+        "strafe_type": 2
+    },
+    "Backtracking": {
+        "backtrack_color": {
+            "a": 255,
+            "b": 220,
+            "g": 117,
+            "r": 147
+        },
+        "backtrack_color_visible": {
+            "a": 255,
+            "b": 86,
+            "g": 205,
+            "r": 150
+        },
+        "backtrack_hitbox": 6,
+        "backtrack_ticks": 12,
+        "backtrack_visual_type": 3,
+        "enabled": true,
+        "visibility_check": false
+    },
+    "Chams": {
+        "allies": false,
+        "arms": false,
+        "arms_type": 3,
+        "backtrack_alpha": 0.649999976158142,
+        "backtrack_type": 4,
+        "chams_type": 4,
+        "deadchams_type": 3,
+        "enabled": true,
+        "enemies": true,
+        "players": true,
+        "show_dead_chams": true,
+        "wallhack": true,
+        "weapon_type": 3,
+        "weapons": false
+    },
+    "Colors": {
+        "color_arms_visible": {
+            "a": 255,
+            "b": 135,
+            "g": 135,
+            "r": 135
+        },
+        "color_ct": {
+            "a": 255,
+            "b": 99,
+            "g": 255,
+            "r": 0
+        },
+        "color_ct_glow": {
+            "a": 255,
+            "b": 94,
+            "g": 126,
+            "r": 23
+        },
+        "color_ct_visible": {
+            "a": 255,
+            "b": 255,
+            "g": 178,
+            "r": 0
+        },
+        "color_ct_visible_glow": {
+            "a": 255,
+            "b": 211,
+            "g": 0,
+            "r": 113
+        },
+        "color_dropped_bomb": {
+            "a": 255,
+            "b": 0,
+            "g": 225,
+            "r": 117
+        },
+        "color_player_dead": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "color_t": {
+            "a": 255,
+            "b": 135,
+            "g": 0,
+            "r": 255
+        },
+        "color_t_glow": {
+            "a": 255,
+            "b": 19,
+            "g": 19,
+            "r": 255
+        },
+        "color_t_visible": {
+            "a": 255,
+            "b": 0,
+            "g": 215,
+            "r": 255
+        },
+        "color_t_visible_glow": {
+            "a": 176,
+            "b": 0,
+            "g": 255,
+            "r": 0
+        },
+        "color_weapon": {
+            "a": 255,
+            "b": 52,
+            "g": 253,
+            "r": 249
+        },
+        "color_weapon_visible": {
+            "a": 255,
+            "b": 222,
+            "g": 254,
+            "r": 123
+        },
+        "crosshair_color": {
+            "a": 255,
+            "b": 123,
+            "g": 123,
+            "r": 190
+        },
+        "fov_circle": {
+            "a": 255,
+            "b": 149,
+            "g": 149,
+            "r": 149
+        },
+        "no_sky_color": {
+            "a": 255,
+            "b": 4,
+            "g": 4,
+            "r": 80
+        },
+        "nosky_color": {
+            "a": 255,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "wallbang_indicator_color": {
+            "a": 255,
+            "b": 0,
+            "g": 190,
+            "r": 70
+        }
+    },
+    "Config": {
+        "auto_save": true,
+        "name": "",
+        "weapon_icons": true
+    },
+    "Drawing": {
+        "bomb_esp": false,
+        "bomb_esp_boundingbox": true,
+        "bomb_esp_name": true,
+        "bomb_opt_boundingbox": true,
+        "bomb_opt_distance": true,
+        "bomb_opt_name": true,
+        "bomb_timer": 1,
+        "bone_esp": false,
+        "bone_esp_allies": false,
+        "boundingbox_outline": true,
+        "color_bone_esp": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "crosshair": true,
+        "crosshair_color": {
+            "a": 255,
+            "b": 0,
+            "g": 0,
+            "r": 255
+        },
+        "crosshair_gap": 5,
+        "crosshair_outline": false,
+        "crosshair_thickness": 1,
+        "crosshair_width": 30,
+        "defusekit_esp": false,
+        "defusekit_esp_boundingbox": true,
+        "defusekit_esp_name": true,
+        "defusekit_opt_boundingbox": true,
+        "defusekit_opt_distance": true,
+        "defusekit_opt_name": true,
+        "draw_armor": true,
+        "draw_armorbar": false,
+        "draw_boundingbox": false,
+        "draw_c4": true,
+        "draw_defkit": true,
+        "draw_distance": false,
+        "draw_healthbar": false,
+        "draw_healthnumber": true,
+        "draw_name": true,
+        "draw_weapon_name": true,
+        "enabled": true,
+        "entity_view_lines": false,
+        "fovcircle": true,
+        "grenade_esp": false,
+        "grenade_esp_boundingbox": true,
+        "grenade_esp_name": false,
+        "grenade_opt_boundingbox": true,
+        "grenade_opt_name": true,
+        "hit_marker": true,
+        "hit_marker_sound": true,
+        "hit_marker_style": 1,
+        "hit_marker_volume": 0.666,
+        "hit_marker_volumn": 0.716,
+        "list_enabled": false,
+        "list_x": 30.476191,
+        "list_y": 249.904755,
+        "playeresp": false,
+        "recoil_crosshair": 2,
+        "show_wallbang_indicator": false,
+        "smoke_esp": false,
+        "sound_esp": true,
+        "sound_esp_duration": 20,
+        "visible_duration": 1,
+        "weapon_esp": false,
+        "weapon_esp_boundingbox": true,
+        "weapon_esp_name": false,
+        "weapon_opt_boundingbox": false,
+        "weapon_opt_name": true
+    },
+    "Extras": {
+        "auto_cock_revolver": false,
+        "autoknife": false,
+        "autopistol": false,
+        "knifebot": true
+    },
+    "Glow": {
+        "color_dropped_bomb": {
+            "a": 255,
+            "b": 1,
+            "g": 238,
+            "r": 5
+        },
+        "color_extra": {
+            "a": 255,
+            "b": 254,
+            "g": 72,
+            "r": 119
+        },
+        "color_grenades": {
+            "a": 255,
+            "b": 253,
+            "g": 253,
+            "r": 31
+        },
+        "color_planted_bomb": {
+            "a": 255,
+            "b": 21,
+            "g": 160,
+            "r": 253
+        },
+        "enabled": true,
+        "glow_bomb": true,
+        "glow_extra": true,
+        "glow_grenades": true,
+        "glow_player": false,
+        "glow_team": true,
+        "glow_weapon": true
+    },
+    "GrenadeHelper": {
+        "aim_assist": false,
+        "aim_distance": 12.0,
+        "aim_fov": 0.725000023841858,
+        "color_grenade_flash": {
+            "a": 255,
+            "b": 253,
+            "g": 102,
+            "r": 1
+        },
+        "color_grenade_he": {
+            "a": 255,
+            "b": 153,
+            "g": 254,
+            "r": 67
+        },
+        "color_grenade_inc": {
+            "a": 255,
+            "b": 181,
+            "g": 72,
+            "r": 254
+        },
+        "color_grenade_smoke": {
+            "a": 255,
+            "b": 52,
+            "g": 161,
+            "r": 253
+        },
+        "developer_mode": true,
+        "enabled": true,
+        "smoothaim": true,
+        "visible_distance": 250
+    },
+    "GrenadePrediction": {
+        "enabled": true,
+        "hit_color": {
+            "a": 255,
+            "b": 143,
+            "g": 123,
+            "r": 0
+        },
+        "hit_size": 10,
+        "last_path_stays": false,
+        "path_color": {
+            "a": 255,
+            "b": 0,
+            "g": 255,
+            "r": 210
+        },
+        "path_width": 1.5
+    },
+    "Improvements": {
+        "aimware_lagcrashfix": false,
+        "always_rcs": false,
+        "always_rcs_level": 1.6,
+        "auto_accept": true,
+        "bhop_legit": false,
+        "bhop_maxhops": 4,
+        "bhop_minhops": 3,
+        "bhop_toggle_key": 59,
+        "bunnyhop": false,
+        "fov": 100.0,
+        "fov_changer": true,
+        "glove_changer": false,
+        "gray_walls": false,
+        "maxflashalpha": 0.925,
+        "minecraft_textures": false,
+        "mp7_to_mp5sd": true,
+        "night_mode": false,
+        "no_flash": true,
+        "no_scope": false,
+        "no_sky": false,
+        "rankreveal": true,
+        "skin_changer": true,
+        "stream_proof": false,
+        "trigger_autoactivation": false,
+        "trigger_delay": false,
+        "trigger_delay_value": 325,
+        "trigger_filter_arms": false,
+        "trigger_filter_chest": true,
+        "trigger_filter_head": true,
+        "trigger_filter_legs": false,
+        "trigger_filter_stomach": false,
+        "trigger_key": 109,
+        "triggerbot": false
+    },
+    "Main": {
+        "enabled": true,
+        "menu_key": 73,
+        "screenshot_cleaner": true
+    },
+    "OverwatchReveal": {
+        "enabled": true,
+        "name_overlay_x": 768,
+        "name_overlay_y": 757,
+        "show_name_overlay": true,
+        "show_player_list": true
+    },
+    "Radar": {
+        "active": false,
+        "enabled": true,
+        "pos_x": 7,
+        "pos_y": 4,
+        "size": 180,
+        "style": 0,
+        "zoom": 16
+    },
+    "SkinChanger": {
+        "show_all_knives": false,
+        "show_all_skins": false
+    },
+    "weapon_deagle_Aimbot": {
+        "recoil_control": false
+    },
+    "weapon_deagle_Improvements": {
+        "always_rcs": false
+    },
+    "weapon_g3sg1_Aimbot": {
+        "enabled": false,
+        "recoil_control": true
+    },
+    "weapon_g3sg1_Improvements": {
+        "always_rcs": false
+    },
+    "weapon_scar20_Aimbot": {
+        "enabled": false
+    },
+    "weapon_ssg08_Aimbot": {
+        "fixed_bone": 0
+    },
+    "weapontype_pistol_Aimbot": {
+        "bone_mode": 1,
+        "field_of_view": 4,
+        "fixed_bone": 0,
+        "recoil_level_x": 0.98,
+        "recoil_level_y": 0.98,
+        "smooth_salt_multiplier": 0.056,
+        "smoothing_factor": 0.74
+    },
+    "weapontype_rifle_Aimbot": {
+        "field_of_view": 1.25,
+        "recoil_level_x": 1.695,
+        "recoil_level_y": 1.125
+    },
+    "weapontype_shotgun_Aimbot": {
+        "field_of_view": 5,
+        "recoil_control": false,
+        "recoil_level_x": 0,
+        "recoil_level_y": 0,
+        "smooth_salt_multiplier": 0.051,
+        "smoothing_factor": 0.64
+    },
+    "weapontype_sniper_Aimbot": {
+        "bone_mode": 1,
+        "field_of_view": 7.5,
+        "fixed_bone": 3,
+        "recoil_control": false,
+        "recoil_level_x": 0,
+        "recoil_level_y": 0,
+        "smooth_salt_multiplier": 0.061,
+        "smoothing_factor": 0.7125
+    },
+    "weapontype_sniper_Improvements": {
+        "always_rcs": false
+    }
+}
