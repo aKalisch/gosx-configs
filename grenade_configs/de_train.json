@@ -1,0 +1,338 @@
+[
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -1159.97082519531,
+            "y": -1048.10925292969,
+            "z": -95.96875
+        },
+        "throw_type": 1,
+        "title": "B upper to Z-connector",
+        "viewangle": {
+            "x": -14.6015253067017,
+            "y": 5.09663772583008
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -827.971618652344,
+            "y": 1268.03125,
+            "z": -222.96875
+        },
+        "throw_type": 0,
+        "title": "T Spawn to Olof",
+        "viewangle": {
+            "x": -51.203125,
+            "y": -47.0043678283691
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -555.03125,
+            "y": 1262.03125,
+            "z": -212.594787597656
+        },
+        "throw_type": 0,
+        "title": "T Spawn to Forest",
+        "viewangle": {
+            "x": -67.9672164916992,
+            "y": -50.9932861328125
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -392.081512451172,
+            "y": 1236.02990722656,
+            "z": -86.9020385742188
+        },
+        "throw_type": 0,
+        "title": "T Spawn to Bombsite",
+        "viewangle": {
+            "x": -48.353084564209,
+            "y": -63.1120910644531
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -612.584106445312,
+            "y": -583.96875,
+            "z": 16.03125
+        },
+        "throw_type": 0,
+        "title": "B Tunnels to MTW (green train)",
+        "viewangle": {
+            "x": -45.7826042175293,
+            "y": 53.1320190429688
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -886.57861328125,
+            "y": 1476.47705078125,
+            "z": -223.966827392578
+        },
+        "throw_type": 2,
+        "title": "T Spawn to Z-connector 2",
+        "viewangle": {
+            "x": -15.942626953125,
+            "y": -49.9108467102051
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -645.4482421875,
+            "y": 1697.47778320312,
+            "z": -209.96875
+        },
+        "throw_type": 0,
+        "title": "T Spawn to brown-grey middle",
+        "viewangle": {
+            "x": -42.2621040344238,
+            "y": -64.9501037597656
+        }
+    },
+    {
+        "grenade_type": 0,
+        "position": {
+            "x": 1375.96875,
+            "y": 904.199279785156,
+            "z": -223.96875
+        },
+        "throw_type": 0,
+        "title": "Popflash Ivy",
+        "viewangle": {
+            "x": -13.7631978988647,
+            "y": 83.8663330078125
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -453.354827880859,
+            "y": 1285.86999511719,
+            "z": -86.5533142089844
+        },
+        "throw_type": 0,
+        "title": "T Spawn to Bombsite left",
+        "viewangle": {
+            "x": -25.6098651885986,
+            "y": -58.8722648620605
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -446.047607421875,
+            "y": 1236.03125,
+            "z": -86.9020385742188
+        },
+        "throw_type": 0,
+        "title": "T Spawn to Z-connector",
+        "viewangle": {
+            "x": -29.8008632659912,
+            "y": -58.6487731933594
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -655.99609375,
+            "y": -449.312255859375,
+            "z": 16.03125
+        },
+        "throw_type": 0,
+        "title": "Popdog to Ivy",
+        "viewangle": {
+            "x": -38.1269798278809,
+            "y": 28.8035526275635
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -653.96875,
+            "y": -500.625213623047,
+            "z": 16.03125
+        },
+        "throw_type": 0,
+        "title": "Popdog to green train back",
+        "viewangle": {
+            "x": -33.4331474304199,
+            "y": 43.0181999206543
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -653.96875,
+            "y": -480.141418457031,
+            "z": 16.03125
+        },
+        "throw_type": 0,
+        "title": "Popdog to B-site Z-connector",
+        "viewangle": {
+            "x": -42.1504058837891,
+            "y": -9.86543369293213
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": 1021.09692382812,
+            "y": -254.993408203125,
+            "z": -215.96875
+        },
+        "throw_type": 0,
+        "title": "Baseline to Main",
+        "viewangle": {
+            "x": -38.4622573852539,
+            "y": 154.666366577148
+        }
+    },
+    {
+        "grenade_type": 0,
+        "position": {
+            "x": 1039.58984375,
+            "y": 400.386871337891,
+            "z": -215.96875
+        },
+        "throw_type": 0,
+        "title": "Popflash sniper position to Ivy",
+        "viewangle": {
+            "x": -39.6357574462891,
+            "y": 34.1889686584473
+        }
+    },
+    {
+        "grenade_type": 2,
+        "position": {
+            "x": -751.490539550781,
+            "y": 304.017395019531,
+            "z": -215.96875
+        },
+        "throw_type": 4,
+        "title": "Main to E-box",
+        "viewangle": {
+            "x": -4.15196704864502,
+            "y": 51.7702407836914
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": -1055.96875,
+            "y": -1622.4140625,
+            "z": -151.96875
+        },
+        "throw_type": 1,
+        "title": "B Upper Bombsite left",
+        "viewangle": {
+            "x": -10.5222787857056,
+            "y": -16.4519424438477
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": 1007.96875,
+            "y": 287.99755859375,
+            "z": -215.96875
+        },
+        "throw_type": 0,
+        "title": "Bombspot to lower Popdog",
+        "viewangle": {
+            "x": -18.4012603759766,
+            "y": -158.98779296875
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": 400.03125,
+            "y": -534.9697265625,
+            "z": -219.901718139648
+        },
+        "throw_type": 0,
+        "title": "Z-connector to Ivy",
+        "viewangle": {
+            "x": -18.4570503234863,
+            "y": 58.0917854309082
+        }
+    },
+    {
+        "grenade_type": 1,
+        "position": {
+            "x": 1049.27941894531,
+            "y": -1642.45043945312,
+            "z": -199.421997070312
+        },
+        "throw_type": 2,
+        "title": "Catwalk to B upper",
+        "viewangle": {
+            "x": -0.128597915172577,
+            "y": -175.710189819336
+        }
+    },
+    {
+        "grenade_type": 0,
+        "position": {
+            "x": -1155.97241210938,
+            "y": -948.680297851562,
+            "z": -95.96875
+        },
+        "throw_type": 0,
+        "title": "Popflash B inner spot",
+        "viewangle": {
+            "x": -12.5899848937988,
+            "y": -15.8169193267822
+        }
+    },
+    {
+        "grenade_type": 0,
+        "position": {
+            "x": 1104.63244628906,
+            "y": 1436.03125,
+            "z": -223.984344482422
+        },
+        "throw_type": 0,
+        "title": "Popflash Ivy CT",
+        "viewangle": {
+            "x": -39.2446022033691,
+            "y": 179.475921630859
+        }
+    },
+    {
+        "grenade_type": 0,
+        "position": {
+            "x": 645.03125,
+            "y": 1663.99853515625,
+            "z": -223.96875
+        },
+        "throw_type": 0,
+        "title": "Popflash Ivy CT 2",
+        "viewangle": {
+            "x": -24.7157344818115,
+            "y": -32.5328216552734
+        }
+    },
+    {
+        "grenade_type": 0,
+        "position": {
+            "x": 388.892913818359,
+            "y": 1662.857421875,
+            "z": -223.96875
+        },
+        "throw_type": 1,
+        "title": "Popflash Ivy CT 3",
+        "viewangle": {
+            "x": -9.57224369049072,
+            "y": -18.9330806732178
+        }
+    }
+]
