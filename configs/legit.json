@@ -30,11 +30,6 @@
         "mouse_event_aim": false,
         "targeting": 0
     },
-    "AutoStrafe": {
-        "enabled": false,
-        "silent": false,
-        "strafe_type": 2
-    },
     "Backtracking": {
         "backtrack_color": {
             "a": 255,
@@ -109,8 +104,8 @@
         },
         "color_player_dead": {
             "a": 255,
-            "b": 255,
-            "g": 255,
+            "b": 254,
+            "g": 254,
             "r": 255
         },
         "color_t": {
@@ -349,10 +344,8 @@
         "path_width": 1.5
     },
     "Improvements": {
-        "aimware_lagcrashfix": false,
         "always_rcs": false,
         "always_rcs_level": 1.6,
-        "auto_accept": true,
         "bhop_legit": false,
         "bhop_maxhops": 4,
         "bhop_minhops": 3,
@@ -363,8 +356,6 @@
         "glove_changer": false,
         "gray_walls": false,
         "maxflashalpha": 0.925,
-        "minecraft_textures": false,
-        "mp7_to_mp5sd": true,
         "night_mode": false,
         "no_flash": true,
         "no_scope": false,
@@ -384,9 +375,7 @@
         "triggerbot": false
     },
     "Main": {
-        "enabled": true,
-        "menu_key": 73,
-        "screenshot_cleaner": true
+        "enabled": true
     },
     "OverwatchReveal": {
         "enabled": true,
