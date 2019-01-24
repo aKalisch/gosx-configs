@@ -1,699 +1,699 @@
 [
     {
-        "title": "CT Spawn to Pit",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -1710.258301,
             "y": -1555.727905,
-            "z": -196.213623
+            "z": -260.213623
         },
+        "throw_type": 0,
+        "title": "CT Spawn to Pit",
         "viewangle": {
             "x": -45.102264,
             "y": -3.369069
         }
     },
     {
-        "title": "CT Spawn to Top Mid",
         "grenade_type": 1,
-        "throw_type": 1,
         "position": {
             "x": -1710.96875,
             "y": -1192.126831,
-            "z": -123.906189
+            "z": -187.906189
         },
+        "throw_type": 1,
+        "title": "CT Spawn to Top Mid",
         "viewangle": {
             "x": -52.220787,
             "y": 25.919867
         }
     },
     {
-        "title": "CT Spawn to B Window",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": -1512.94397,
             "y": -1543.546021,
-            "z": -195.906189
+            "z": -259.906189
         },
+        "throw_type": 2,
+        "title": "CT Spawn to B Window",
         "viewangle": {
             "x": -22.559946,
             "y": 142.642044
         }
     },
     {
-        "title": "B Site to B Apps",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -2415.96875,
             "y": -115.757309,
-            "z": -93.922211
+            "z": -157.922211
         },
+        "throw_type": 0,
+        "title": "B Site to B Apps",
         "viewangle": {
             "x": -24.570562,
             "y": 44.014862
         }
     },
     {
-        "title": "Market to B Site",
         "grenade_type": 1,
-        "throw_type": 1,
         "position": {
             "x": -2113.672363,
             "y": -489.853851,
-            "z": -103.906189
+            "z": -167.906189
         },
+        "throw_type": 1,
+        "title": "Market to B Site",
         "viewangle": {
             "x": -10.061774,
             "y": 43.960556
         }
     },
     {
-        "title": "B Stairs to Mid Window",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -621.400452,
             "y": 615.96875,
-            "z": -14.915428
+            "z": -78.915428
         },
+        "throw_type": 0,
+        "title": "B Stairs to Mid Window",
         "viewangle": {
             "x": -52.392593,
             "y": -109.873787
         }
     },
     {
-        "title": "Underpass to B Short",
         "grenade_type": 1,
-        "throw_type": 1,
         "position": {
             "x": -1039.96875,
             "y": -347.818665,
-            "z": -297.993164
+            "z": -361.993164
         },
+        "throw_type": 1,
+        "title": "Underpass to B Short",
         "viewangle": {
             "x": -36.905712,
             "y": -79.117409
         }
     },
     {
-        "title": "B Stairs to A Site",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": -735.983093,
             "y": 623.975159,
-            "z": -11.906189
+            "z": -75.906189
         },
+        "throw_type": 2,
+        "title": "B Stairs to A Site",
         "viewangle": {
             "x": -24.950932,
             "y": -87.974907
         }
     },
     {
-        "title": "Apps to B to B Short",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -160.03125,
             "y": 887.96875,
-            "z": -71.265564
+            "z": -135.265564
         },
+        "throw_type": 0,
+        "title": "Apps to B to B Short",
         "viewangle": {
             "x": -44.404716,
             "y": -134.652924
         }
     },
     {
-        "title": "Apps to B to B Short close",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -160.02298,
             "y": 760.019714,
-            "z": -70.526077
+            "z": -134.526077
         },
+        "throw_type": 0,
+        "title": "Apps to B to B Short close",
         "viewangle": {
             "x": -51.197277,
             "y": -167.800385
         }
     },
     {
-        "title": "B Apps to B Site",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -593.198425,
             "y": 615.969849,
-            "z": -14.921944
+            "z": -78.921944
         },
+        "throw_type": 0,
+        "title": "B Apps to B Site",
         "viewangle": {
             "x": -45.980721,
             "y": -171.82222
         }
     },
     {
-        "title": "B Apps to Backside B Site",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -759.492249,
             "y": 623.96875,
-            "z": -11.906189
+            "z": -75.906189
         },
+        "throw_type": 0,
+        "title": "B Apps to Backside B Site",
         "viewangle": {
             "x": -56.794434,
             "y": -157.202667
         }
     },
     {
-        "title": "B Apps to Market Window",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -834.451599,
             "y": 615.094543,
-            "z": -15.06427
+            "z": -79.06427
         },
+        "throw_type": 0,
+        "title": "B Apps to Market Window",
         "viewangle": {
             "x": -64.673538,
             "y": -148.07402
         }
     },
     {
-        "title": "B Apps to B Bench",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -540.158936,
             "y": 520.03125,
-            "z": -17.273766
+            "z": -81.273766
         },
+        "throw_type": 0,
+        "title": "B Apps to B Bench",
         "viewangle": {
             "x": -41.361767,
             "y": -178.559082
         }
     },
     {
-        "title": "B Apps to Market Door",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -759.248962,
             "y": 623.854309,
-            "z": -11.906189
+            "z": -75.906189
         },
+        "throw_type": 0,
+        "title": "B Apps to Market Door",
         "viewangle": {
             "x": -56.468262,
             "y": -154.106369
         }
     },
     {
-        "title": "B Apps to B Van",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": -161.03125,
             "y": 574.792175,
-            "z": -5.770248
+            "z": -69.770248
         },
+        "throw_type": 2,
+        "title": "B Apps to B Van",
         "viewangle": {
             "x": -13.974384,
             "y": 176.549805
         }
     },
     {
-        "title": "B Short to A Palace",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": -911.260071,
             "y": -309.96875,
-            "z": -103.906189
+            "z": -167.906189
         },
+        "throw_type": 2,
+        "title": "B Short to A Palace",
         "viewangle": {
             "x": -16.311012,
             "y": -61.946022
         }
     },
     {
-        "title": "Connector to Underpass",
         "grenade_type": 1,
-        "throw_type": 1,
         "position": {
             "x": -807.96875,
             "y": -1239.96875,
-            "z": -103.90618896484
+            "z": -167.90618896484
         },
+        "throw_type": 1,
+        "title": "Connector to Underpass",
         "viewangle": {
             "x": -1.6631927490234,
             "y": 48.502197265625
         }
     },
     {
-        "title": "T Spawn to CT Spawn",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": 1087.30835,
             "y": -1017.066162,
-            "z": -194.192932
+            "z": -258.192932
         },
+        "throw_type": 2,
+        "title": "T Spawn to CT Spawn",
         "viewangle": {
             "x": -29.080933,
             "y": -144.763077
         }
     },
     {
-        "title": "T Spawn to Stairs\/Jungle lower",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": 1239.96875,
             "y": -1023.880676,
-            "z": -194.916107
+            "z": -258.916107
         },
+        "throw_type": 2,
+        "title": "T Spawn to Stairs/Jungle lower",
         "viewangle": {
             "x": -34.841049,
             "y": -164.325531
         }
     },
     {
-        "title": "T Spawn to A Site",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": 1087.14856,
             "y": -1016.856018,
-            "z": -194.149353
+            "z": -258.149353
         },
+        "throw_type": 2,
+        "title": "T Spawn to A Site",
         "viewangle": {
             "x": -43.263805,
             "y": -145.14389
         }
     },
     {
-        "title": "T Spawn to Stairs",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": 1148.088135,
             "y": -1183.96875,
-            "z": -141.509155
+            "z": -205.509155
         },
+        "throw_type": 0,
+        "title": "T Spawn to Stairs",
         "viewangle": {
             "x": -40.438164,
             "y": -165.467255
         }
     },
     {
-        "title": "T Spawn to B Short",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": 1423.96875,
             "y": -367.96875,
-            "z": -103.906189
+            "z": -167.906189
         },
+        "throw_type": 2,
+        "title": "T Spawn to B Short",
         "viewangle": {
             "x": -33.373981,
             "y": 178.556686
         }
     },
     {
-        "title": "Apps Entrance to Connector",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": 1135.96875,
             "y": 647.980103,
-            "z": -197.325195
+            "z": -261.325195
         },
+        "throw_type": 2,
+        "title": "Apps Entrance to Connector",
         "viewangle": {
             "x": -28.700787,
             "y": -140.85463
         }
     },
     {
-        "title": "T Mid to Connector",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": 398.96875,
             "y": 176.383606,
-            "z": -185.351593
+            "z": -249.351593
         },
+        "throw_type": 2,
+        "title": "T Mid to Connector",
         "viewangle": {
             "x": -47.176487,
             "y": -136.453445
         }
     },
     {
-        "title": "T Spawn to Mid Window",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": 1423.96875,
             "y": -248.03125,
-            "z": -103.906189
+            "z": -167.906189
         },
+        "throw_type": 2,
+        "title": "T Spawn to Mid Window",
         "viewangle": {
             "x": -36.580219,
             "y": -170.36174
         }
     },
     {
-        "title": "Underwood to Pit 1",
         "grenade_type": 0,
-        "throw_type": 0,
         "position": {
             "x": 151.301437,
             "y": -1912.03125,
-            "z": -103.906189
+            "z": -167.906189
         },
+        "throw_type": 0,
+        "title": "Underwood to Pit 1",
         "viewangle": {
             "x": -5.117352,
             "y": -157.646744
         }
     },
     {
-        "title": "Underwood to Pit 2",
         "grenade_type": 0,
-        "throw_type": 0,
         "position": {
             "x": 60.536919,
             "y": -2086.108643,
-            "z": -103.906189
+            "z": -167.906189
         },
+        "throw_type": 0,
+        "title": "Underwood to Pit 2",
         "viewangle": {
             "x": -7.725649,
             "y": 89.977776
         }
     },
     {
-        "title": "Underwood to Pit 3",
         "grenade_type": 0,
-        "throw_type": 0,
         "position": {
             "x": -41.814354,
             "y": -1944.074341,
-            "z": -103.906189
+            "z": -167.906189
         },
+        "throw_type": 0,
+        "title": "Underwood to Pit 3",
         "viewangle": {
             "x": -9.192824,
             "y": 102.747696
         }
     },
     {
-        "title": "A Palace to Wood",
         "grenade_type": 0,
-        "throw_type": 0,
         "position": {
             "x": 367.96875,
             "y": -2208.20459,
-            "z": 24.093811
+            "z": -39.906189
         },
+        "throw_type": 0,
+        "title": "A Palace to Wood",
         "viewangle": {
             "x": -9.627579,
             "y": -131.89006
         }
     },
     {
-        "title": "T Roof to Connector-Jungle Area",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": 815.96875,
             "y": -1457.3970947266,
-            "z": -44.906188964844
+            "z": -108.90618896484
         },
+        "throw_type": 0,
+        "title": "T Roof to Connector-Jungle Area",
         "viewangle": {
             "x": -26.919109344482,
             "y": -174.36665344238
         }
     },
     {
-        "title": "Window to Window (Oneway)",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -1209.0776367188,
             "y": -873.27069091797,
-            "z": -103.90618896484
+            "z": -167.90618896484
         },
+        "throw_type": 0,
+        "title": "Window to Window (Oneway)",
         "viewangle": {
             "x": -48.214023590088,
             "y": 66.405006408691
         }
     },
     {
-        "title": "Back Alley to B Site",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -292.95736694336,
             "y": 651.05450439453,
-            "z": -15.906188964844
+            "z": -79.906188964844
         },
+        "throw_type": 0,
+        "title": "Back Alley to B Site",
         "viewangle": {
             "x": -38.383296966553,
             "y": -168.91456604004
         }
     },
     {
-        "title": "Back of Top Mid to Short",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": 399.96875,
             "y": -17.061996459961,
-            "z": -135.76377868652
+            "z": -199.76377868652
         },
+        "throw_type": 0,
+        "title": "Back of Top Mid to Short",
         "viewangle": {
             "x": -47.085395812988,
             "y": -174.25372314453
         }
     },
     {
-        "title": "T Spawn to Connector",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": 1135.9688720703,
             "y": 647.97564697266,
-            "z": -197.32916259766
+            "z": -261.32916259766
         },
+        "throw_type": 2,
+        "title": "T Spawn to Connector",
         "viewangle": {
             "x": -28.565841674805,
             "y": -140.28150939941
         }
     },
     {
-        "title": "Back Alley to B Short",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -160.03125,
             "y": 887.97607421875,
-            "z": -71.265701293945
+            "z": -135.26570129394
         },
+        "throw_type": 0,
+        "title": "Back Alley to B Short",
         "viewangle": {
             "x": -44.558227539062,
             "y": -134.51733398438
         }
     },
     {
-        "title": "Back Alley to Kitchen Window",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -784.94146728516,
             "y": 623.01361083984,
-            "z": -11.906188964844
+            "z": -75.906188964844
         },
+        "throw_type": 0,
+        "title": "Back Alley to Kitchen Window",
         "viewangle": {
             "x": -62.644565582275,
             "y": -155.41680908203
         }
     },
     {
-        "title": "Back Alley to Back of B Site",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -759.41180419922,
             "y": 623.96875,
-            "z": -11.906188964844
+            "z": -75.906188964844
         },
+        "throw_type": 0,
+        "title": "Back Alley to Back of B Site",
         "viewangle": {
             "x": -56.902870178223,
             "y": -158.1153717041
         }
     },
     {
-        "title": "Back Alley to Bench",
         "grenade_type": 1,
-        "throw_type": 0,
         "position": {
             "x": -539.64923095703,
             "y": 520.03125,
-            "z": -17.256721496582
+            "z": -81.256721496582
         },
+        "throw_type": 0,
+        "title": "Back Alley to Bench",
         "viewangle": {
             "x": -41.70703125,
             "y": -178.88931274414
         }
     },
     {
-        "title": "Short to A Palace",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": -903.96875,
             "y": -376.03125,
-            "z": -94.426040649414
+            "z": -158.42604064941
         },
+        "throw_type": 2,
+        "title": "Short to A Palace",
         "viewangle": {
             "x": -17.026332855225,
             "y": -60.065921783447
         }
     },
     {
-        "title": "Back of Top Mid to Connector",
         "grenade_type": 1,
-        "throw_type": 1,
         "position": {
             "x": 398.96875,
             "y": 174.52612304688,
-            "z": -184.86740112305
+            "z": -248.86740112305
         },
+        "throw_type": 1,
+        "title": "Back of Top Mid to Connector",
         "viewangle": {
             "x": -47.133861541748,
             "y": -136.7900390625
         }
     },
     {
-        "title": "A Palace to Balcony",
         "grenade_type": 0,
-        "throw_type": 0,
         "position": {
             "x": 367.96875,
             "y": -2207.2014160156,
-            "z": 24.093811035156
+            "z": -39.906188964844
         },
+        "throw_type": 0,
+        "title": "A Palace to Balcony",
         "viewangle": {
             "x": -9.9494724273682,
             "y": -131.94680786133
         }
     },
     {
-        "title": "Under Balcony to A Ramp",
         "grenade_type": 0,
-        "throw_type": 0,
         "position": {
             "x": 151.30142211914,
             "y": -1912.03125,
-            "z": -103.90618896484
+            "z": -167.90618896484
         },
+        "throw_type": 0,
+        "title": "Under Balcony to A Ramp",
         "viewangle": {
             "x": -0.68306356668472,
             "y": -159.27072143555
         }
     },
     {
-        "title": "Sandwich to Jungle-Connector",
         "grenade_type": 1,
-        "throw_type": 2,
         "position": {
             "x": -261.38943481445,
             "y": -1546.3642578125,
-            "z": -103.90618896484
+            "z": -167.90618896484
         },
+        "throw_type": 2,
+        "title": "Sandwich to Jungle-Connector",
         "viewangle": {
             "x": -41.182060241699,
             "y": -7.2748103141785
         }
     },
     {
-        "title": "B Aps to Kitchen Window",
         "grenade_type": 3,
-        "throw_type": 2,
         "position": {
             "x": -1952.03125,
             "y": 691.41546630859,
-            "z": 16.093811035156
+            "z": -47.906188964844
         },
+        "throw_type": 2,
+        "title": "B Aps to Kitchen Window",
         "viewangle": {
             "x": 14.495945930481,
             "y": -87.39966583252
         }
     },
     {
-        "title": "B Balcony to Kitchen Window",
         "grenade_type": 2,
-        "throw_type": 2,
         "position": {
             "x": -1952.03125,
             "y": 651.29028320312,
-            "z": 36.093811035156
+            "z": -27.906188964844
         },
+        "throw_type": 2,
+        "title": "B Balcony to Kitchen Window",
         "viewangle": {
             "x": 20.950345993042,
             "y": -87.132019042969
         }
     },
     {
-        "title": "Under Balcony to A Palace",
         "grenade_type": 2,
-        "throw_type": 1,
         "position": {
             "x": 151.3138885498,
             "y": -2071.96875,
-            "z": -103.90618896484
+            "z": -167.90618896484
         },
+        "throw_type": 1,
+        "title": "Under Balcony to A Palace",
         "viewangle": {
             "x": -32.786437988281,
             "y": 101.52212524414
         }
     },
     {
-        "title": "A Palace to Under Balcony",
         "grenade_type": 2,
-        "throw_type": 0,
         "position": {
             "x": 16.03125,
             "y": -2375.9060058594,
-            "z": 24.093811035156
+            "z": -39.906188964844
         },
+        "throw_type": 0,
+        "title": "A Palace to Under Balcony",
         "viewangle": {
             "x": 3.4867618083954,
             "y": 74.911346435547
         }
     },
     {
-        "title": "T Roof to Sandwich",
         "grenade_type": 2,
-        "throw_type": 0,
         "position": {
             "x": 831.99114990234,
             "y": -1255.96875,
-            "z": -44.906188964844
+            "z": -108.90618896484
         },
+        "throw_type": 0,
+        "title": "T Roof to Sandwich",
         "viewangle": {
             "x": -19.857418060303,
             "y": -165.01600646973
         }
     },
     {
-        "title": "Window to Underpass",
         "grenade_type": 2,
-        "throw_type": 0,
         "position": {
             "x": -1183.96875,
             "y": -456.03125,
-            "z": -103.90618896484
+            "z": -167.90618896484
         },
+        "throw_type": 0,
+        "title": "Window to Underpass",
         "viewangle": {
             "x": 6.7606902122498,
             "y": -69.763313293457
