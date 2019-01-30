@@ -1,34 +1,29 @@
 {
     "Aimbot": {
         "aim_key": 107,
-        "always_rcs": false,
         "auto_cock_revolver": false,
         "bone_mode": 0,
         "delayed_shot": true,
         "enabled": true,
-        "enemy_onground_check": true,
+        "enemy_onground_check": false,
         "field_of_view": 1.5,
-        "fixed_bone": 1,
+        "fixed_bone": 3,
         "flash_check": false,
         "fov_enabled": true,
-        "full_legit": false,
         "player_onground_check": true,
         "recoil_control": true,
-        "recoil_level_x": 1.8,
-        "recoil_level_y": 1.375,
+        "recoil_level_x": 1.625,
+        "recoil_level_y": 1.0,
         "silent_aim": false,
         "smokecheck": false,
-        "smooth_constant_speed": false,
         "smooth_salt_multiplier": 0.06144,
         "smooth_salting": true,
         "smoothaim": true,
-        "smoothing_factor": 0.785,
-        "toggle_key": 61
+        "smoothing_factor": 0.785
     },
     "AntiCheat": {
         "faceit_safe": false,
-        "mouse_event_aim": false,
-        "targeting": 0
+        "mouse_event_aim": false
     },
     "Backtracking": {
         "backtrack_color": {
@@ -44,24 +39,23 @@
             "r": 150
         },
         "backtrack_hitbox": 6,
-        "backtrack_ticks": 12,
+        "backtrack_ticks": 8,
         "backtrack_visual_type": 3,
         "enabled": true,
         "visibility_check": false
     },
     "Chams": {
-        "allies": false,
+        "allies": true,
         "arms": false,
         "arms_type": 3,
-        "backtrack_alpha": 0.649999976158142,
-        "backtrack_type": 4,
+        "backtrack_alpha": 0.870000004768372,
+        "backtrack_type": 3,
         "chams_type": 4,
         "deadchams_type": 3,
         "enabled": true,
         "enemies": true,
         "players": true,
         "show_dead_chams": true,
-        "wallhack": true,
         "weapon_type": 3,
         "weapons": false
     },
@@ -85,13 +79,13 @@
             "r": 23
         },
         "color_ct_visible": {
-            "a": 255,
+            "a": 118,
             "b": 255,
             "g": 178,
             "r": 0
         },
         "color_ct_visible_glow": {
-            "a": 255,
+            "a": 128,
             "b": 211,
             "g": 0,
             "r": 113
@@ -156,18 +150,6 @@
             "g": 149,
             "r": 149
         },
-        "no_sky_color": {
-            "a": 255,
-            "b": 4,
-            "g": 4,
-            "r": 80
-        },
-        "nosky_color": {
-            "a": 255,
-            "b": 0,
-            "g": 0,
-            "r": 0
-        },
         "wallbang_indicator_color": {
             "a": 255,
             "b": 0,
@@ -177,8 +159,14 @@
     },
     "Config": {
         "auto_save": true,
-        "name": "",
+        "open_close_hint": false,
         "weapon_icons": true
+    },
+    "DangerZone": {
+        "draw_distance": 2000.0,
+        "draw_distance_limit": true,
+        "show_assassination_target": true,
+        "supply_esp": true
     },
     "Drawing": {
         "bomb_esp": false,
@@ -216,16 +204,15 @@
         "defusekit_opt_name": true,
         "draw_armor": true,
         "draw_armorbar": false,
-        "draw_boundingbox": false,
+        "draw_boundingbox": true,
         "draw_c4": true,
         "draw_defkit": true,
         "draw_distance": false,
-        "draw_healthbar": false,
-        "draw_healthnumber": true,
+        "draw_healthbar": true,
+        "draw_healthnumber": false,
         "draw_name": true,
         "draw_weapon_name": true,
-        "enabled": true,
-        "entity_view_lines": false,
+        "esp_box_type": 0,
         "fovcircle": true,
         "grenade_esp": false,
         "grenade_esp_boundingbox": true,
@@ -237,20 +224,18 @@
         "hit_marker_style": 1,
         "hit_marker_volume": 0.666,
         "hit_marker_volumn": 0.716,
-        "list_enabled": false,
+        "list_enabled": true,
         "list_x": 30.476191,
         "list_y": 249.904755,
         "playeresp": false,
         "recoil_crosshair": 2,
         "show_wallbang_indicator": false,
         "smoke_esp": false,
-        "sound_esp": true,
-        "sound_esp_duration": 20,
         "visible_duration": 1,
         "weapon_esp": false,
         "weapon_esp_boundingbox": true,
         "weapon_esp_name": false,
-        "weapon_opt_boundingbox": false,
+        "weapon_opt_boundingbox": true,
         "weapon_opt_name": true
     },
     "Extras": {
@@ -287,9 +272,9 @@
         "enabled": true,
         "glow_bomb": true,
         "glow_extra": true,
-        "glow_grenades": true,
+        "glow_grenades": false,
         "glow_player": false,
-        "glow_team": true,
+        "glow_team": false,
         "glow_weapon": true
     },
     "GrenadeHelper": {
@@ -322,6 +307,7 @@
         },
         "developer_mode": true,
         "enabled": true,
+        "show_onscreen_help": true,
         "smoothaim": true,
         "visible_distance": 250
     },
@@ -345,7 +331,7 @@
     },
     "Improvements": {
         "always_rcs": false,
-        "always_rcs_level": 1.6,
+        "auto_accept": true,
         "bhop_legit": false,
         "bhop_maxhops": 4,
         "bhop_minhops": 3,
@@ -359,10 +345,8 @@
         "night_mode": false,
         "no_flash": true,
         "no_scope": false,
-        "no_sky": false,
-        "rankreveal": true,
         "skin_changer": true,
-        "stream_proof": false,
+        "stream_proof": true,
         "trigger_autoactivation": false,
         "trigger_delay": false,
         "trigger_delay_value": 325,
@@ -371,7 +355,7 @@
         "trigger_filter_head": true,
         "trigger_filter_legs": false,
         "trigger_filter_stomach": false,
-        "trigger_key": 109,
+        "trigger_key": 110,
         "triggerbot": false
     },
     "Main": {
@@ -385,7 +369,6 @@
         "show_player_list": true
     },
     "Radar": {
-        "active": false,
         "enabled": true,
         "pos_x": 7,
         "pos_y": 4,
@@ -395,31 +378,39 @@
     },
     "SkinChanger": {
         "show_all_knives": false,
-        "show_all_skins": false
+        "show_all_skins": false,
+        "skin_previews": true
+    },
+    "weapon_cz75a_Aimbot": {
+        "delayed_shot": false,
+        "enemy_onground_check": true,
+        "field_of_view": 2.75,
+        "fixed_bone": 1,
+        "player_onground_check": true,
+        "recoil_level_x": 0.699999988079071,
+        "recoil_level_y": 0.75
+    },
+    "weapon_cz75a_Improvements": {
+        "always_rcs": true
     },
     "weapon_deagle_Aimbot": {
         "recoil_control": false
     },
-    "weapon_deagle_Improvements": {
-        "always_rcs": false
-    },
     "weapon_g3sg1_Aimbot": {
-        "enabled": false,
-        "recoil_control": true
-    },
-    "weapon_g3sg1_Improvements": {
-        "always_rcs": false
+        "enabled": false
     },
     "weapon_scar20_Aimbot": {
         "enabled": false
     },
     "weapon_ssg08_Aimbot": {
+        "bone_mode": 1,
         "fixed_bone": 0
     },
     "weapontype_pistol_Aimbot": {
         "bone_mode": 1,
-        "field_of_view": 4,
+        "field_of_view": 3.72499990463257,
         "fixed_bone": 0,
+        "flash_check": true,
         "recoil_level_x": 0.98,
         "recoil_level_y": 0.98,
         "smooth_salt_multiplier": 0.056,
@@ -427,11 +418,13 @@
     },
     "weapontype_rifle_Aimbot": {
         "field_of_view": 1.25,
-        "recoil_level_x": 1.695,
+        "recoil_level_x": 1.67499995231628,
         "recoil_level_y": 1.125
     },
     "weapontype_shotgun_Aimbot": {
+        "bone_mode": 1,
         "field_of_view": 5,
+        "fixed_bone": 1,
         "recoil_control": false,
         "recoil_level_x": 0,
         "recoil_level_y": 0,
@@ -440,15 +433,12 @@
     },
     "weapontype_sniper_Aimbot": {
         "bone_mode": 1,
-        "field_of_view": 7.5,
+        "field_of_view": 6.5,
         "fixed_bone": 3,
         "recoil_control": false,
         "recoil_level_x": 0,
         "recoil_level_y": 0,
         "smooth_salt_multiplier": 0.061,
         "smoothing_factor": 0.7125
-    },
-    "weapontype_sniper_Improvements": {
-        "always_rcs": false
     }
 }
