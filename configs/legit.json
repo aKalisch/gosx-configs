@@ -1,6 +1,10 @@
 {
     "Aimbot": {
-        "aim_key": 107,
+        "aim_key": {
+            "code": 1,
+            "modifiers": 0,
+            "type": 1
+        },
         "auto_cock_revolver": false,
         "bone_mode": 0,
         "delayed_shot": true,
@@ -12,6 +16,11 @@
         "fov_enabled": true,
         "player_onground_check": true,
         "recoil_control": true,
+        "recoil_level": {
+            "x": 1.625,
+            "y": 1.0,
+            "z": 0.0
+        },
         "recoil_level_x": 1.625,
         "recoil_level_y": 1.0,
         "silent_aim": false,
@@ -45,11 +54,11 @@
         "visibility_check": false
     },
     "Chams": {
-        "allies": true,
+        "allies": false,
         "arms": false,
         "arms_type": 3,
         "backtrack_alpha": 0.870000004768372,
-        "backtrack_type": 3,
+        "backtrack_type": 7,
         "chams_type": 4,
         "deadchams_type": 3,
         "enabled": true,
@@ -79,7 +88,7 @@
             "r": 23
         },
         "color_ct_visible": {
-            "a": 118,
+            "a": 255,
             "b": 255,
             "g": 178,
             "r": 0
@@ -159,7 +168,7 @@
     },
     "Config": {
         "auto_save": true,
-        "open_close_hint": false,
+        "open_close_hint": true,
         "weapon_icons": true
     },
     "DangerZone": {
@@ -203,7 +212,7 @@
         "defusekit_opt_distance": true,
         "defusekit_opt_name": true,
         "draw_armor": true,
-        "draw_armorbar": false,
+        "draw_armorbar": true,
         "draw_boundingbox": true,
         "draw_c4": true,
         "draw_defkit": true,
@@ -308,7 +317,7 @@
         "developer_mode": true,
         "enabled": true,
         "show_onscreen_help": true,
-        "smoothaim": true,
+        "smoothaim": false,
         "visible_distance": 250
     },
     "GrenadePrediction": {
@@ -335,7 +344,11 @@
         "bhop_legit": false,
         "bhop_maxhops": 4,
         "bhop_minhops": 3,
-        "bhop_toggle_key": 59,
+        "bhop_toggle_key": {
+            "code": 98,
+            "modifiers": 1024,
+            "type": 0
+        },
         "bunnyhop": false,
         "fov": 100.0,
         "fov_changer": true,
@@ -345,7 +358,7 @@
         "night_mode": false,
         "no_flash": true,
         "no_scope": false,
-        "skin_changer": true,
+        "skin_changer": false,
         "stream_proof": true,
         "trigger_autoactivation": false,
         "trigger_delay": false,
@@ -355,11 +368,20 @@
         "trigger_filter_head": true,
         "trigger_filter_legs": false,
         "trigger_filter_stomach": false,
-        "trigger_key": 110,
+        "trigger_key": {
+            "code": 4,
+            "modifiers": 0,
+            "type": 1
+        },
         "triggerbot": false
     },
     "Main": {
-        "enabled": true
+        "enabled": true,
+        "menu_key": {
+            "code": 8,
+            "modifiers": 256,
+            "type": 0
+        }
     },
     "OverwatchReveal": {
         "enabled": true,
@@ -370,11 +392,11 @@
     },
     "Radar": {
         "enabled": true,
-        "pos_x": 7,
-        "pos_y": 4,
-        "size": 180,
-        "style": 0,
-        "zoom": 16
+        "pos_x": 4,
+        "pos_y": 37,
+        "size": 160,
+        "style": 1,
+        "zoom": 20
     },
     "SkinChanger": {
         "show_all_knives": false,
@@ -410,7 +432,7 @@
         "bone_mode": 1,
         "field_of_view": 3.72499990463257,
         "fixed_bone": 0,
-        "flash_check": true,
+        "flash_check": false,
         "recoil_level_x": 0.98,
         "recoil_level_y": 0.98,
         "smooth_salt_multiplier": 0.056,
@@ -440,5 +462,9 @@
         "recoil_level_y": 0,
         "smooth_salt_multiplier": 0.061,
         "smoothing_factor": 0.7125
+    },
+    "weapontype_sniper_Improvements": {
+        "trigger_autoactivation": false,
+        "triggerbot": false
     }
 }
