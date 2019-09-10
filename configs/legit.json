@@ -2,15 +2,20 @@
     "Aimbot": {
         "aim_key": {
             "code": 1,
-            "modifiers": 0,
+            "modifiers": {
+                "alt": false,
+                "cmd": false,
+                "ctrl": false,
+                "shift": false
+            },
             "type": 1
         },
         "auto_cock_revolver": false,
         "bone_mode": 0,
         "delayed_shot": true,
         "enabled": true,
-        "enemy_onground_check": false,
-        "field_of_view": 1.5,
+        "enemy_onground_check": true,
+        "field_of_view": 1.27499997615814,
         "fixed_bone": 3,
         "flash_check": false,
         "fov_enabled": true,
@@ -25,10 +30,10 @@
         "recoil_level_y": 1.0,
         "silent_aim": false,
         "smokecheck": false,
-        "smooth_salt_multiplier": 0.06144,
+        "smooth_salt_multiplier": 0.0560000017285347,
         "smooth_salting": true,
         "smoothaim": true,
-        "smoothing_factor": 0.785
+        "smoothing_factor": 0.625
     },
     "AntiCheat": {
         "faceit_safe": false,
@@ -58,7 +63,7 @@
         "arms": false,
         "arms_type": 3,
         "backtrack_alpha": 0.870000004768372,
-        "backtrack_type": 7,
+        "backtrack_type": 4,
         "chams_type": 4,
         "deadchams_type": 3,
         "enabled": true,
@@ -174,6 +179,29 @@
     "DangerZone": {
         "draw_distance": 2000.0,
         "draw_distance_limit": true,
+        "filters_airdrop": true,
+        "filters_ammobox": true,
+        "filters_armor": true,
+        "filters_armor_helmet": true,
+        "filters_axe_dropped": true,
+        "filters_briefcase": true,
+        "filters_bumpmine": true,
+        "filters_cash": true,
+        "filters_cash_dufflebag": true,
+        "filters_exojump": true,
+        "filters_explosive_case": true,
+        "filters_hammer_dropped": true,
+        "filters_healthshot": true,
+        "filters_heavy_case": true,
+        "filters_helmet": true,
+        "filters_light_case": true,
+        "filters_parachute": true,
+        "filters_pistol_case": true,
+        "filters_radar_jammer": true,
+        "filters_shield": true,
+        "filters_spanner_dropped": true,
+        "filters_tablet_upgrade": true,
+        "filters_tools_case": true,
         "show_assassination_target": true,
         "supply_esp": true
     },
@@ -218,7 +246,7 @@
         "draw_defkit": true,
         "draw_distance": false,
         "draw_healthbar": true,
-        "draw_healthnumber": false,
+        "draw_healthnumber": true,
         "draw_name": true,
         "draw_weapon_name": true,
         "esp_box_type": 0,
@@ -246,6 +274,18 @@
         "weapon_esp_name": false,
         "weapon_opt_boundingbox": true,
         "weapon_opt_name": true
+    },
+    "EdgeJump": {
+        "hold_key": {
+            "code": 2,
+            "modifiers": {
+                "alt": false,
+                "cmd": false,
+                "ctrl": false,
+                "shift": false
+            },
+            "type": 1
+        }
     },
     "Extras": {
         "auto_cock_revolver": false,
@@ -345,41 +385,57 @@
         "bhop_maxhops": 4,
         "bhop_minhops": 3,
         "bhop_toggle_key": {
-            "code": 98,
-            "modifiers": 1024,
+            "code": 12,
+            "modifiers": {
+                "alt": true,
+                "cmd": true,
+                "ctrl": false,
+                "shift": false
+            },
             "type": 0
         },
-        "bunnyhop": false,
-        "fov": 100.0,
+        "bunnyhop": true,
+        "fov": 108.0,
         "fov_changer": true,
-        "glove_changer": false,
+        "glove_changer": true,
         "gray_walls": false,
         "maxflashalpha": 0.925,
         "night_mode": false,
         "no_flash": true,
         "no_scope": false,
-        "skin_changer": false,
+        "rankreveal": true,
+        "skin_changer": true,
         "stream_proof": true,
         "trigger_autoactivation": false,
         "trigger_delay": false,
-        "trigger_delay_value": 325,
+        "trigger_delay_value": 150.0,
         "trigger_filter_arms": false,
-        "trigger_filter_chest": true,
+        "trigger_filter_chest": false,
         "trigger_filter_head": true,
         "trigger_filter_legs": false,
         "trigger_filter_stomach": false,
         "trigger_key": {
             "code": 4,
-            "modifiers": 0,
+            "modifiers": {
+                "alt": false,
+                "cmd": false,
+                "ctrl": false,
+                "shift": false
+            },
             "type": 1
         },
-        "triggerbot": false
+        "triggerbot": true
     },
     "Main": {
         "enabled": true,
         "menu_key": {
-            "code": 8,
-            "modifiers": 256,
+            "code": 42,
+            "modifiers": {
+                "alt": true,
+                "cmd": false,
+                "ctrl": false,
+                "shift": false
+            },
             "type": 0
         }
     },
@@ -395,7 +451,7 @@
         "pos_x": 4,
         "pos_y": 37,
         "size": 160,
-        "style": 1,
+        "style": 0,
         "zoom": 20
     },
     "SkinChanger": {
@@ -403,7 +459,20 @@
         "show_all_skins": false,
         "skin_previews": true
     },
+    "Sonar": {
+        "enabled": true,
+        "fov_start_distance": 90.0,
+        "max_sound_delay": 2500.0,
+        "sound_volume": 0.200000002980232,
+        "start_distance": 2500.0,
+        "type": 1
+    },
     "weapon_cz75a_Aimbot": {
+        "aim_key": {
+            "code": 2,
+            "modifiers": 0,
+            "type": 1
+        },
         "delayed_shot": false,
         "enemy_onground_check": true,
         "field_of_view": 2.75,
@@ -433,15 +502,15 @@
         "field_of_view": 3.72499990463257,
         "fixed_bone": 0,
         "flash_check": false,
+        "recoil_level": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 0.0
+        },
         "recoil_level_x": 0.98,
         "recoil_level_y": 0.98,
         "smooth_salt_multiplier": 0.056,
         "smoothing_factor": 0.74
-    },
-    "weapontype_rifle_Aimbot": {
-        "field_of_view": 1.25,
-        "recoil_level_x": 1.67499995231628,
-        "recoil_level_y": 1.125
     },
     "weapontype_shotgun_Aimbot": {
         "bone_mode": 1,
