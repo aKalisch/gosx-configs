@@ -15,7 +15,7 @@
         "delayed_shot": true,
         "enabled": true,
         "enemy_onground_check": true,
-        "field_of_view": 1.27499997615814,
+        "field_of_view": 1.5,
         "fixed_bone": 3,
         "flash_check": false,
         "fov_enabled": true,
@@ -26,14 +26,12 @@
             "y": 1.0,
             "z": 0.0
         },
-        "recoil_level_x": 1.625,
-        "recoil_level_y": 1.0,
         "silent_aim": false,
         "smokecheck": false,
-        "smooth_salt_multiplier": 0.0560000017285347,
+        "smooth_salt_multiplier": 0.0614,
         "smooth_salting": true,
         "smoothaim": true,
-        "smoothing_factor": 0.625
+        "smoothing_factor": 0.785
     },
     "AntiCheat": {
         "faceit_safe": false,
@@ -62,7 +60,7 @@
         "allies": false,
         "arms": false,
         "arms_type": 3,
-        "backtrack_alpha": 0.870000004768372,
+        "backtrack_alpha": 0.87,
         "backtrack_type": 4,
         "chams_type": 4,
         "deadchams_type": 3,
@@ -246,7 +244,7 @@
         "draw_defkit": true,
         "draw_distance": false,
         "draw_healthbar": true,
-        "draw_healthnumber": true,
+        "draw_healthnumber": false,
         "draw_name": true,
         "draw_weapon_name": true,
         "esp_box_type": 0,
@@ -320,7 +318,6 @@
         },
         "enabled": true,
         "glow_bomb": true,
-        "glow_extra": true,
         "glow_grenades": false,
         "glow_player": false,
         "glow_team": false,
@@ -329,7 +326,7 @@
     "GrenadeHelper": {
         "aim_assist": false,
         "aim_distance": 12.0,
-        "aim_fov": 0.725000023841858,
+        "aim_fov": 0.725,
         "color_grenade_flash": {
             "a": 255,
             "b": 253,
@@ -385,7 +382,7 @@
         "bhop_maxhops": 4,
         "bhop_minhops": 3,
         "bhop_toggle_key": {
-            "code": 12,
+            "code": 5,
             "modifiers": {
                 "alt": true,
                 "cmd": true,
@@ -394,8 +391,8 @@
             },
             "type": 0
         },
-        "bunnyhop": true,
-        "fov": 108.0,
+        "bunnyhop": false,
+        "fov": 100.0,
         "fov_changer": true,
         "glove_changer": true,
         "gray_walls": false,
@@ -408,9 +405,9 @@
         "stream_proof": true,
         "trigger_autoactivation": false,
         "trigger_delay": false,
-        "trigger_delay_value": 150.0,
+        "trigger_delay_value": 325.0,
         "trigger_filter_arms": false,
-        "trigger_filter_chest": false,
+        "trigger_filter_chest": true,
         "trigger_filter_head": true,
         "trigger_filter_legs": false,
         "trigger_filter_stomach": false,
@@ -424,7 +421,7 @@
             },
             "type": 1
         },
-        "triggerbot": true
+        "triggerbot": false
     },
     "Main": {
         "enabled": true,
@@ -440,18 +437,14 @@
         }
     },
     "OverwatchReveal": {
-        "enabled": true,
-        "name_overlay_x": 768,
-        "name_overlay_y": 757,
-        "show_name_overlay": true,
-        "show_player_list": true
+        "enabled": true
     },
     "Radar": {
         "enabled": true,
         "pos_x": 4,
         "pos_y": 37,
         "size": 160,
-        "style": 0,
+        "style": 1,
         "zoom": 20
     },
     "SkinChanger": {
@@ -468,18 +461,16 @@
         "type": 1
     },
     "weapon_cz75a_Aimbot": {
-        "aim_key": {
-            "code": 2,
-            "modifiers": 0,
-            "type": 1
-        },
         "delayed_shot": false,
         "enemy_onground_check": true,
         "field_of_view": 2.75,
         "fixed_bone": 1,
         "player_onground_check": true,
-        "recoil_level_x": 0.699999988079071,
-        "recoil_level_y": 0.75
+        "recoil_level": {
+            "x": 0.7,
+            "y": 0.75,
+            "z": 0.0
+        }
     },
     "weapon_cz75a_Improvements": {
         "always_rcs": true
@@ -499,7 +490,7 @@
     },
     "weapontype_pistol_Aimbot": {
         "bone_mode": 1,
-        "field_of_view": 3.72499990463257,
+        "field_of_view": 3.725,
         "fixed_bone": 0,
         "flash_check": false,
         "recoil_level": {
@@ -507,8 +498,6 @@
             "y": 1.0,
             "z": 0.0
         },
-        "recoil_level_x": 0.98,
-        "recoil_level_y": 0.98,
         "smooth_salt_multiplier": 0.056,
         "smoothing_factor": 0.74
     },
@@ -517,8 +506,6 @@
         "field_of_view": 5,
         "fixed_bone": 1,
         "recoil_control": false,
-        "recoil_level_x": 0,
-        "recoil_level_y": 0,
         "smooth_salt_multiplier": 0.051,
         "smoothing_factor": 0.64
     },
@@ -527,8 +514,6 @@
         "field_of_view": 6.5,
         "fixed_bone": 3,
         "recoil_control": false,
-        "recoil_level_x": 0,
-        "recoil_level_y": 0,
         "smooth_salt_multiplier": 0.061,
         "smoothing_factor": 0.7125
     },
